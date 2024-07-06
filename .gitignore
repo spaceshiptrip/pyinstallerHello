@@ -2,3 +2,6 @@ venv
 *.docx
 *.exe
 *.zip
+*.pyc
+localpycs
+__pycache__
